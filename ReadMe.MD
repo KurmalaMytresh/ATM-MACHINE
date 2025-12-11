@@ -206,8 +206,9 @@ Important Notes / Assumptions
 
 9. No interest, taxes, or additional banking features are calculated.
 
-  10.Transaction history stores deposits as positive values and withdrawals as negative values.
+10.Transaction history stores deposits as positive values and withdrawals as negative values.
 
+---
 
 How to Compile and Run:
 
@@ -218,3 +219,5 @@ gcc yourprogram.c -o
 Run:
 
 ./output
+
+---
