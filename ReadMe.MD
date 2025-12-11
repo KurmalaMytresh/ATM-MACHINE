@@ -182,14 +182,11 @@ This project not only replicates real-world ATM operations like balance inquiry,
 
 Overall, the project reinforces core programming concepts and provides a strong foundation for further learning.
 
+
 Important Notes / Assumptions
 
-1.
-
-The ATM system assumes that the user enters a valid 4-digit PIN.
-
-:
-
+1.The ATM system assumes that the user enters a valid 4-digit PIN.
+
 2. The initial account balance is assumed to be a predefined value (ex: 0 or 5000).
 
 3. The maximum number of transactions stored is limited by the array size (e.g., 50).
@@ -209,12 +206,12 @@ The ATM system assumes that the user enters a valid 4-digit PIN.
   10.Transaction history stores deposits as positive values and withdrawals as negative values.
 
 
-How to Compile and Run
+How to Compile and Run:
 
-Compile
+Compile:
 
 gcc yourprogram.c -o
 
-Run
+Run:
 
 ./output
